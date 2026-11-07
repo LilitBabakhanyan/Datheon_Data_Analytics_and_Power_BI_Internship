@@ -2,7 +2,7 @@
 
 Data analytics projects from the Datheon Data Analytics & Power BI Internship.
 
-I'm Lilit, a Computer Science graduate from the American University of Armenia. This repository holds the four projects I completed during the internship, covering exploratory analysis in Python, interactive dashboards in Power BI, and customer retention analytics. Each project folder has its own README with the business problem, methodology, results and recommendations.
+This repository holds the four projects I completed during the internship, covering exploratory analysis in Python, interactive dashboards in Power BI, and customer retention analytics. Each project folder has its own README with the business problem, methodology, results and recommendations.
 
 ## Projects
 
